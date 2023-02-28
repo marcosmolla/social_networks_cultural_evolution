@@ -1,4 +1,4 @@
-# Social Network Structure Affects Cultural Evolution Dynamicsocial_networks_cultural_evolution
+# Social Network Structure Affects Cultural Evolution Dynamics
 
 This is a repository for additional information and code to the manuscript "Social Network Structure Affects Cultural Evolution Dynamics"
 
